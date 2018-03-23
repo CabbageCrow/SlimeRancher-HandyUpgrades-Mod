@@ -20,7 +20,8 @@ This mod needs UPM (Unity Plugin Manager) to work.
 2. Afterwards put the "HandyUpgrades_CabbageCrow.dll" from the Releases section into the "Plugin" folder:  
    https://github.com/CabbageCrow/HandyUpgrades_WIP/releases
    
-3. Happy Sliming!
+3. Access the content of the mod by using the Vacpack Upgrade Terminal.  
+   Happy Sliming!
 
 ## Backup save files
 Go to the "Monomi Park" folder and make a Copy of your "Slime Rancher" folder to somewhere (e.g. your Desktop).
