@@ -16,8 +16,7 @@ This mod needs **UPM (Unity Plugin Manager)** to work.
    * **Correct folder?** See [Screenshot for UPM Installation](#screenshot-for-upm-installation).  
    * **How to find your Game folder?** Follow the [instructions here](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) in the link - but click **"Browse Local Files..."** instead of "Verify integrity of game files..." as the last step.  
    
-2. Afterwards put the **"HandyUpgrades_CabbageCrow.dll"** from the Releases section into the new **"Plugin" folder**:  
-   https://github.com/CabbageCrow/HandyUpgrades_WIP/releases
+2. Afterwards put the [latest Release](https://github.com/CabbageCrow/HandyUpgrades_WIP/releases/latest) of **"HandyUpgrades_CabbageCrow.dll"** into the new **"Plugin" folder**:  
    
 3. Access the content of the mod by using the **Vacpack Upgrade Terminal**.  
    Happy Sliming!
