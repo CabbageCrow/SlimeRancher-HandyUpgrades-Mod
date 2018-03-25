@@ -7,7 +7,8 @@ This is in the early development phase.
 Bugs are to be expected, but it's here for testing. ^_^
 
 ## Install Instructions
-0. Mabe make a **Backup** of your save files - see [Backup save files](#backup-save-files).
+0. Maybe make a **Backup** of your save files - see [Backup save files](#backup-save-files).  
+   (Although this Mod _doesn't_ do anything to the original save files directly - and will never do - there is the small possibility that if it breaks something in the game itself, that could corrupt your save file.)
 
 This mod needs **UPM (Unity Plugin Manager)** to work.
 
@@ -20,6 +21,8 @@ This mod needs **UPM (Unity Plugin Manager)** to work.
 (This zip-archive contains 2 .dll files. You can overwrite the old ones, if you have any.)
    
 3. Access the content of the mod by using the **Vacpack Upgrade Terminal**.  
+   There are two new Category-Tabs. With the rightmost you can activate Handy Upgrade Packages and by the middle one you can activate the actual Handy Upgrades.  
+   (Currently it doesn't save what you have activated, so you have to re-activate all after a reload.)  
    Happy Sliming!
 
 ## Backup save files
