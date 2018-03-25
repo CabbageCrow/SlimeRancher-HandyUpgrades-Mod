@@ -1,5 +1,6 @@
 # HandyUpgrades_WIP
-A Mod for Slime Rancher, which adds handy Upgrades. They shall make ranching easier and quicker.
+A Mod for Slime Rancher, which adds handy Upgrades. They shall make ranching easier and quicker.  
+Only active in the game modes **Classic** and **Casual**!
 
 ## Totally Work in Progress!
 This is in the early development phase.
