@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 <img align="right" src="https://github.com/CabbageCrow/HandyUpgrades_WIP/img/Logo/blob/master/HandyUpgrades_Hand.png">
-=======
-<img align="right" src="https://github.com/CabbageCrow/HandyUpgrades_WIP/blob/master/img/Logo/Logo_HandyUpgrades_256px.png">
->>>>>>> 59f07b728fdbf40a7991f891325e3a1f9bd240ef
 
 # HandyUpgrades_WIP
 A Mod for Slime Rancher, which adds handy Upgrades. They shall make ranching easier and quicker.  
@@ -42,11 +38,7 @@ Go to the "Monomi Park" folder and make a **Copy** of your **"Slime Rancher" fol
 | Linux        | \~/.config/unity3d/Monomi Park               |
 
 ## Screenshot for UPM Installation
-<<<<<<< HEAD
 ![Screenshot for UPM Installation](https://github.com/CabbageCrow/HandyUpgrades_WIP/img/blob/master/UPM_Helping_Screenshot.png)
 
 ## Credits
 The hand icon of the Logo is designed by Freepik from Flaticon.
-=======
-![Screenshot for UPM Installation](https://github.com/CabbageCrow/HandyUpgrades_WIP/blob/master/img/UPM_Helping_Screenshot.png)
->>>>>>> 59f07b728fdbf40a7991f891325e3a1f9bd240ef
