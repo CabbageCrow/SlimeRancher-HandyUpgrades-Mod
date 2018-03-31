@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/CabbageCrow/HandyUpgrades_WIP/blob/master/img/Logo/HandyUpgrades_Hand.png">
+<img align="right" src="https://github.com/CabbageCrow/HandyUpgrades_WIP/blob/master/img/Logo/Handy_Upgrades_Logo.png">
 
 # HandyUpgrades_WIP
 A Mod for Slime Rancher, which adds handy Upgrades. They shall make ranching easier and quicker.  
