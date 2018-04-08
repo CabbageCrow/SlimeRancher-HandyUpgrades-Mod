@@ -1,13 +1,20 @@
-<img align="right" src="https://github.com/CabbageCrow/HandyUpgrades_WIP/blob/master/img/Logo/Handy_Upgrades_Logo.png">
+<img align="right" src="https://github.com/CabbageCrow/HandyUpgrades/blob/master/img/Logo/Handy_Upgrades_Logo.png">
 
-# HandyUpgrades_WIP
+# Handy Upgrades - Mod
 A Mod for Slime Rancher, which adds handy Upgrades. They shall make ranching easier and quicker.  
 Only active in the game modes **Classic** and **Casual**!
 
-## Totally Work in Progress!
-This is in the early development phase.
+## List of features
+Comming soon
 
-Bugs are to be expected, but it's here for testing. ^_^
+## Support me
+If you like my work, spread the word so more people can enjoy it.  
+You also can show your appreciation with a metaphorical coffee or cabbage: 
+<img align="right" src="https://github.com/CabbageCrow/HandyUpgrades_WIP/blob/master/img/Logo/Handy_Upgrades_Logo.png">
+<a href='https://ko-fi.com/Q5Q0BT8U' target='_blank'><img height='36' style='border:0px;height:36px;' 
+src='https://github.com/CabbageCrow/HandyUpgrades/blob/master/img/Kofi_btn/kofi_btn_coffee.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/Q5Q0BT8U' target='_blank'><img height='36' style='border:0px;height:36px;' 
+src='https://github.com/CabbageCrow/HandyUpgrades/blob/master/img/Kofi_btn/kofi_btn_cabbage.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## Install Instructions
 0. Maybe make a **Backup** of your save files - see [Backup save files](#backup-save-files).  
@@ -20,7 +27,7 @@ This mod needs **UPM (Unity Plugin Manager)** to work.
    * **Correct folder?** See [Screenshot for UPM Installation](#screenshot-for-upm-installation).  
    * **How to find your Game folder?** Follow the [instructions here](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) in the link - but click **"Browse Local Files..."** instead of "Verify integrity of game files..." as the last step.  
    
-2. Afterwards extract the content of the **"HandyUpgrades_CabbageCrow.zip"** from the [latest Release](https://github.com/CabbageCrow/HandyUpgrades_WIP/releases/latest) into the new **"Plugin" folder**  
+2. Afterwards extract the content of the **"HandyUpgrades_CabbageCrow.zip"** from the [latest Release](https://github.com/CabbageCrow/HandyUpgrades/releases/latest) into the new **"Plugin" folder**  
 (This zip-archive contains 2 .dll files. You can overwrite the old ones, if you have any.)
    
 3. Access the content of the mod by using the **Vacpack Upgrade Terminal**.  
@@ -38,7 +45,7 @@ Go to the "Monomi Park" folder and make a **Copy** of your **"Slime Rancher" fol
 | Linux        | \~/.config/unity3d/Monomi Park               |
 
 ## Screenshot for UPM Installation
-![Screenshot for UPM Installation](https://github.com/CabbageCrow/HandyUpgrades_WIP/blob/master/img/UPM_Helping_Screenshot.png)
+![Screenshot for UPM Installation](https://github.com/CabbageCrow/HandyUpgrades/blob/master/img/UPM_Helping_Screenshot.png)
 
 ## Credits
 The hand icon of the Logo is designed by Freepik from Flaticon.
