@@ -10,10 +10,9 @@ Comming soon
 ## Support me
 If you like my work, spread the word so more people can enjoy it.  
 You also can show your appreciation with a metaphorical coffee or cabbage: 
-<img align="right" src="https://github.com/CabbageCrow/HandyUpgrades_WIP/blob/master/img/Logo/Handy_Upgrades_Logo.png">
-<a href='https://ko-fi.com/Q5Q0BT8U' target='_blank'><img height='36' style='border:0px;height:36px;' 
+<a href='https://ko-fi.com/Q5Q0BT8U' target='_blank'><img height='53' style='border:0px;height:53px;' 
 src='https://github.com/CabbageCrow/HandyUpgrades/blob/master/img/Kofi_btn/kofi_btn_coffee.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href='https://ko-fi.com/Q5Q0BT8U' target='_blank'><img height='36' style='border:0px;height:36px;' 
+<a href='https://ko-fi.com/Q5Q0BT8U' target='_blank'><img height='55' style='border:0px;height:55px;' 
 src='https://github.com/CabbageCrow/HandyUpgrades/blob/master/img/Kofi_btn/kofi_btn_cabbage.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## Install Instructions
