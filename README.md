@@ -21,10 +21,10 @@ src='https://github.com/CabbageCrow/HandyUpgrades/blob/master/img/Kofi_btn/kofi_
 
 This mod needs **UPM (Unity Plugin Manager)** to work.
 
-1. See its developer **[Install Instructions](https://www.reddit.com/r/slimerancher/comments/84ux68/official_thread_debug_menu_mod/)** and follow the first 3 steps of it - if something is unclear, the following infos might help you:  
+1. See its developer **[Install Instructions](https://www.reddit.com/r/slimerancher/comments/84ux68/official_thread_debug_menu_mod/)** and follow the first 3 steps of it - However if something is unclear, the following infos might help you:  
    
-   * **Correct folder?** See [Screenshot for UPM Installation](#screenshot-for-upm-installation).  
-   * **How to find your Game folder?** Follow the [instructions here](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) in the link - but click **"Browse Local Files..."** instead of "Verify integrity of game files..." as the last step.  
+   * **Correct folder? Is it the "Slime Rancher game folder"?** See [Screenshot for UPM Installation](#screenshot-for-upm-installation).  
+   * **How to find your Game folder?** Follow the [instructions here](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) in the link - BUT click **"Browse Local Files..."** instead of "Verify integrity of game files..." as the last step.  
    
 2. Afterwards extract the content of the **"HandyUpgrades_CabbageCrow.zip"** from the [latest Release](https://github.com/CabbageCrow/HandyUpgrades/releases/latest) into the new **"Plugin" folder**  
 (This zip-archive contains 2 .dll files. You can overwrite the old ones, if you have any.)
