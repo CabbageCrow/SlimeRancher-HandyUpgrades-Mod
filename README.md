@@ -21,7 +21,7 @@ src='https://github.com/CabbageCrow/HandyUpgrades/blob/master/img/Kofi_btn/kofi_
 
 This mod needs **UPM (Unity Plugin Manager)** to work.
 
-1. See its developer **[Install Instructions](https://www.reddit.com/r/slimerancher/comments/84ux68/official_thread_debug_menu_mod/)** and follow the first 3 steps of it - if something is unclear, see the following tips:  
+1. See its developer **[Install Instructions](https://www.reddit.com/r/slimerancher/comments/84ux68/official_thread_debug_menu_mod/)** and follow the first 3 steps of it - if something is unclear, see the following infos might help you:  
    
    * **Correct folder?** See [Screenshot for UPM Installation](#screenshot-for-upm-installation).  
    * **How to find your Game folder?** Follow the [instructions here](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) in the link - but click **"Browse Local Files..."** instead of "Verify integrity of game files..." as the last step.  
