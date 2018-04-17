@@ -5,7 +5,8 @@ A Mod for Slime Rancher, which adds "Handy Upgrades". They shall make ranching e
 Only active in the game modes **Classic** and **Casual**!
 
 ## List of features
-Comming soon
+#### Currently in beta testing: 
+   * Suction Regulator
 
 ## Support me
 If you like my work, spread the word so more people can enjoy it.  
