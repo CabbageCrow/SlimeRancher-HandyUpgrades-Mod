@@ -20,7 +20,7 @@ src='https://github.com/CabbageCrow/HandyUpgrades/blob/master/img/Kofi_btn/kofi_
 0. Maybe make a **Backup** of your save files - see [Backup save files](#backup-save-files).  
    (Although this Mod _doesn't_ do anything to the original save files directly - and will never do - there is the small possibility that if it breaks something in the game itself, that could corrupt your save file.)
 
-This mod needs **UPM (Unity Plugin Manager)** to work.
+This mod needs **UPM (Unity Plugin Manager)** to work. If you have UPM already installed, you can skipt the next step and continue with 2.
 
 1. See its developer **[Install Instructions](https://www.reddit.com/r/slimerancher/comments/84ux68/official_thread_debug_menu_mod/)** and follow the first 3 steps of it - However if something is unclear, the following infos might help you:  
    
@@ -28,7 +28,8 @@ This mod needs **UPM (Unity Plugin Manager)** to work.
    * **How to find your Game folder?** Follow the [instructions here](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) in the link - BUT click **"Browse Local Files..."** instead of "Verify integrity of game files..." as the last step.  
    
 2. Afterwards extract the content of the **"HandyUpgrades_CabbageCrow.zip"** from the [latest Release](https://github.com/CabbageCrow/HandyUpgrades/releases/latest) into the new **"Plugin" folder**  
-(This zip-archive contains 2 .dll files. You can overwrite the old ones, if you have any.)
+(This zip-archive contains 2 .dll files. You can overwrite the old ones, if you have any.  
+Make sure that there is only one version of "HandyUpgrades_CabbageCrow" in the folder.)
    
 3. Access the content of the mod by using the **Vacpack Upgrade Terminal**.  
    There are two new Category-Tabs. With the rightmost you can activate Handy Upgrade Packages and by the middle one you can activate the actual Handy Upgrades.  
