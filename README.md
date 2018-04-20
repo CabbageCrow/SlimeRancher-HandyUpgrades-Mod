@@ -8,6 +8,8 @@ Only active in the game modes **Classic** and **Casual**!
 #### Currently in beta testing: 
    * Suction Regulator
 
+More coming soon.
+
 ## Support me
 If you like my work, spread the word so more people can enjoy it.  
 You also can show your appreciation with a metaphorical coffee or cabbage:  
