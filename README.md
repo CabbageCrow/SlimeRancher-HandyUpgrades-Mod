@@ -20,7 +20,7 @@ src='https://github.com/CabbageCrow/HandyUpgrades/blob/master/img/Kofi_btn/kofi_
 
 ## Install Instructions
 0. Maybe make a **Backup** of your save files - see [Backup save files](#backup-save-files).  
-   (Although this Mod _doesn't_ do anything to the original save files directly - and will never do - there is the small possibility that if it breaks something in the game itself, that could corrupt your save file.)
+   (Although this Mod currently _doesn't_ do anything to the original save files directly - there is the small possibility that if it breaks something in the game itself, that could corrupt your save file.)
 
 This mod needs **UPM (Unity Plugin Manager)** to work. If you have UPM already installed, you can skipt the next step and continue with 2.
 
