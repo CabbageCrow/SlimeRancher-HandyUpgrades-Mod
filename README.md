@@ -6,7 +6,8 @@ Only active in the game modes **Classic** and **Casual**!
 
 ## List of features
 #### Currently in beta testing: 
-   * Suction Regulator
+   * Suction Regulator  
+   Modes:
        * Full = Normal mode
        * High = No big stuff is vacuumed up (crates, toys, largos)
        * Medium = Additionally normal slimes won't be vacuumed up
