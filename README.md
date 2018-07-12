@@ -46,6 +46,7 @@ Make sure that there is only one version of "HandyUpgrades_CabbageCrow" in the f
    
 ## Uninstall / Disable the mod
 If you want to disable the mod just rename or delete the folder "Plugins" in your game folder ("Slime Rancher", NOT within the "SlimeRancher_Data" folder!)
+Note: That will affect all mods which use harmony. If there are more than 2 files within the plugin folder (HandyUpgrades and harmony), you can alternatively just remove the HandyUpgrades file.
 
 ## Backup save files
 Go to the "Monomi Park" folder and make a **Copy** of your **"Slime Rancher" folder** to somewhere (e.g. your Desktop).
