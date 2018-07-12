@@ -44,7 +44,7 @@ Make sure that there is only one version of "HandyUpgrades_CabbageCrow" in the f
    (Currently it doesn't save what you have activated, so you have to re-activate all after a reload.)  
    Happy Sliming!
    
-## Disabling the mod
+## Uninstall / Disable the mod
 If you want to disable the mod just rename or delete the folder "Plugins" in your game folder ("Slime Rancher", NOT within the "SlimeRancher_Data" folder!)
 
 ## Backup save files
