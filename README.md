@@ -35,6 +35,17 @@ src='https://github.com/CabbageCrow/HandyUpgrades/blob/master/img/Kofi_btn/kofi_
 0. Maybe make a **Backup** of your save files - see [Backup save files](#backup-save-files).  
    (Although this Mod currently _doesn't_ do anything to the original save files directly - there is the small possibility that if it breaks something in the game itself, that could corrupt your save file.)
 
+
+
+### Using the Installer
+1. Try **using the new installer** inside the archive **HandyUpgrades_CabbageCrow_Installer_BETA.zip**  
+Get it here, the first link: [Download the latest Release](https://github.com/CabbageCrow/HandyUpgrades/releases/latest)  
+You can install it multiple times - it doesn't matter.  
+(The installer handles all the prerequisites (UPM) and places the dlls into the right folder.)
+
+### Manual installation
+A manual installation is a bit more work and there are more possibilities for mistakes. Try using the Installer first.
+
 This mod needs **UPM (Unity Plugin Manager)** to work. If you have UPM already installed, you can skipt the next step and continue with 2.
 
 1. See its developer **[Install Instructions](https://www.reddit.com/r/slimerancher/comments/84ux68/official_thread_debug_menu_mod/)** and follow the first 3 steps of it - However if something is unclear, the following infos might help you:  
