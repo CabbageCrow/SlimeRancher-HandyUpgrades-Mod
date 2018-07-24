@@ -2,7 +2,7 @@
 
 # Handy Upgrades - Mod
 A Mod for Slime Rancher, which adds "Handy Upgrades". They shall make ranching easier and quicker. Another term would be "Quality of Life" (QOL).  
-Only active in the game modes **Classic** and **Casual**!
+Only active in the game modes **Adventure** and **Casual**!
 
 ## List of features
 #### Currently in beta testing: 
