@@ -77,9 +77,13 @@ Make sure that there is only one version of "HandyUpgrades_CabbageCrow" in the f
    Happy Sliming!
    
 ## Uninstall / Disable the mod
-If you want to disable the mod just rename or delete the folder "Mods" in your game folder "Slime Rancher".
-(If you used the Installer or use Multimod, the Mod is located there. If you installed UPM manually, then you have to rename or delete the "Plugins" folder.)
-Note: That will affect all mods which use harmony. If there are more than 2 files within the plugin folder (HandyUpgrades and harmony). Alternatively you can just remove the HandyUpgrades file.
+If you want to disable the mod just rename or delete the folder "Mods" in your game folder "Slime Rancher".  
+(If you used the Installer or use Multimod, the Mod is located there. If you installed UPM manually, then you have to rename or delete the "Plugins" folder.)  
+Note: That will affect all mods which use harmony. If there are more than 2 files within the plugin folder (HandyUpgrades and harmony). Alternatively you can just remove the HandyUpgrades file.  
+
+### Complete Uninstall
+If you need to uninstall your mods completely, follow the instuctions to [Verify Integrity of Game Files](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335). 
+This resets your game files to a clean state like a reinstall and doesn't affecting your saves.
 
 ## Backup save files
 Go to the "Monomi Park" folder and make a **Copy** of your **"Slime Rancher" folder** to somewhere (e.g. your Desktop).
