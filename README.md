@@ -7,19 +7,20 @@ Only active in the game modes **Adventure** and **Casual**!
 ## List of features
 #### Currently in beta testing: 
    * Selective Suction  
-   For selectively vacuuming stuff up - the others aren't affected
+   For selectively vacuuming stuff up - the others wont get into your vacpack.  
+   (To change between modes **configure the controls** in the Options menu.)
    Modes:
        * Normal = Normal mode
        * Medium = No big stuff is vacuumed up (crates, toys, largos)
        * Low = Additionally normal slimes won't be vacuumed up
        * Plorts = Only plorts are affected
-   * Memorizing Feeders
+   * Memorizing Feeders  
    Auto feeders keep the last piece of food. This way you always know what to refill. And some busy buzzers too.
-   * Ginger Predictor
+   * Ginger Predictor  
    Different version help with finding the rare veggie)
-   * Game Mode Switcher
+   * Game Mode Switcher  
    Switches between Adventure and Casual
-   * Screenshot without vacpack
+   * Screenshot without vacpack  
    For the best pics without a blocked view!
 
 #### In work / Planned
