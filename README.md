@@ -17,7 +17,7 @@ Only active in the game modes **Adventure** and **Casual**!
    * Memorizing Feeders  
    Auto feeders keep the last piece of food. This way you always know what to refill. And some busy buzzers too.
    * Ginger Predictor  
-   Different version help with finding the rare veggie)
+   Different levels help with finding the rare veggie
    * Game Mode Switcher  
    Switches between Adventure and Casual
    * Screenshot without vacpack  
