@@ -6,7 +6,7 @@ Only active in the game modes **Adventure** and **Casual**!
 
 If you already know about it - Get it here, the first link: [Download the latest Release](https://github.com/CabbageCrow/HandyUpgrades/releases/latest) 
 
-## Feedback is welcome
+## Feedback is very welcome
 Please give me feedback to the Handy Upgrades, their prices and unlock conditions.
 Just drop by in the SR Wiki Discord and tag me: https://discord.gg/vv3szXr
 
