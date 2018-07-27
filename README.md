@@ -54,7 +54,9 @@ You can install it multiple times - it doesn't matter.
 (The installer handles all the prerequisites (UPM) and places the dlls into the right folder.)
 
 ### Manual installation
-A manual installation is a bit more work and there are more possibilities for mistakes. Try using the Installer first.
+A manual installation is a bit more work and there are more possibilities for mistakes. Try using the Installer first.  
+
+If you have Multi Mod installed, you shouldn't install UPM manually. Either put the .dll files into the "Mods" folder or use the Handy Upgrades Installer.  
 
 This mod needs **UPM (Unity Plugin Manager)** to work. If you have UPM already installed, you can skipt the next step and continue with 2.
 
@@ -73,8 +75,9 @@ Make sure that there is only one version of "HandyUpgrades_CabbageCrow" in the f
    Happy Sliming!
    
 ## Uninstall / Disable the mod
-If you want to disable the mod just rename or delete the folder "Plugins" in your game folder ("Slime Rancher", NOT within the "SlimeRancher_Data" folder!)
-Note: That will affect all mods which use harmony. If there are more than 2 files within the plugin folder (HandyUpgrades and harmony), you can alternatively just remove the HandyUpgrades file.
+If you want to disable the mod just rename or delete the folder "Mods" in your game folder "Slime Rancher".
+(If you used the Installer or use Multimod, the Mod is located there. If you installed UPM manually, then you have to rename or delete the "Plugins" folder.)
+Note: That will affect all mods which use harmony. If there are more than 2 files within the plugin folder (HandyUpgrades and harmony). Alternatively you can just remove the HandyUpgrades file.
 
 ## Backup save files
 Go to the "Monomi Park" folder and make a **Copy** of your **"Slime Rancher" folder** to somewhere (e.g. your Desktop).
