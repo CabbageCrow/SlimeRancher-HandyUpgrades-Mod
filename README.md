@@ -21,7 +21,8 @@ Only active in the game modes **Adventure** and **Casual**!
    * Game Mode Switcher  
    Switches between Adventure and Casual
    * Screenshot without vacpack  
-   For the best pics without a blocked view!
+   For the best pics without a blocked view!  
+   * (Backup of the save file while the mod is active)
 
 #### In work / Planned
    * Quantum Transceiver
