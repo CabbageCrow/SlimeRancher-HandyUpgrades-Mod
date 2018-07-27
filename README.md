@@ -12,7 +12,7 @@ Just drop by in the SR Wiki Discord and tag me: https://discord.gg/vv3szXr
 
 ## List of features
 Get your unlocked Handy Upgrades at the Upgrade Terminal!  
-If you want to know the unlock conditions and don't care to be spoiled, you can find them here: 
+If you want to know the unlock conditions and don't care to be spoiled, you can find them here: [Unlock Conditions](https://github.com/CabbageCrow/HandyUpgrades#-spoiler-warning----unlock-conditions-for-the-handy-upgrades)
 
 #### Currently in beta testing: 
    * Selective Suction  
