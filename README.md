@@ -11,7 +11,9 @@ Please give me feedback to the Handy Upgrades, their prices and unlock condition
 Just drop by in the SR Wiki Discord and tag me: https://discord.gg/vv3szXr
 
 ## List of features
-Get your unlocked Handy Upgrades at the Upgrade Terminal!
+Get your unlocked Handy Upgrades at the Upgrade Terminal!  
+If you want to know the unlock conditions and don't care to be spoiled, you can find them here: 
+
 #### Currently in beta testing: 
    * Selective Suction  
    For selectively vacuuming stuff up - the others wont get into your vacpack.  
@@ -21,6 +23,7 @@ Get your unlocked Handy Upgrades at the Upgrade Terminal!
        * Medium = No big stuff is vacuumed up (crates, toys, largos)
        * Low = Additionally normal slimes won't be vacuumed up
        * Plorts = Only plorts are affected
+       * Regulation Kit = Makes all modes so there is much less bouncing off and muddle
    * Memorizing Feeders  
    Auto feeders keep the last piece of food. This way you always know what to refill. And some busy buzzers too.
    * Ginger Predictor  
@@ -96,6 +99,19 @@ Go to the "Monomi Park" folder and make a **Copy** of your **"Slime Rancher" fol
 
 ## Screenshot for UPM Installation
 ![Screenshot for UPM Installation](https://github.com/CabbageCrow/HandyUpgrades/blob/master/img/UPM_Helping_Screenshot.png)
+
+## !!! SPOILER WARNING !!! - Unlock Conditions for the Handy Upgrades
+* Selective Suction
+  * Normal: From the start
+  * Medium: 3h after unlocking either Moss Blanked or Indigo Quarry
+  * Low: 3h after unlocking both Moss Blanked and Indigo Quarry
+  * Plorts: 3h after unlocking Ancient Ruins
+  * Regulation Kit: 7 days after unlocking the Lab expansion
+* Memorizing Feeders: 3 days after unlocking the Lab expansion
+* Ginger Predictor: Either after post credits reading Hobson Starmail or finding a Gilded Ginger
+* Ginger Predictor Mk II: 7 days after finding the first Gilded Ginger
+* Ginger Predictor Mk III: 7 days after buying Ginger Predictor Mk II
+
 
 ## Credits
 The hand icon of the Logo is designed by Freepik from Flaticon.
