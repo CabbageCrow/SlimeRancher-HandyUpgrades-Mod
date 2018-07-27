@@ -6,20 +6,23 @@ Only active in the game modes **Adventure** and **Casual**!
 
 ## List of features
 #### Currently in beta testing: 
-   * Suction Regulator  
+   * Selective Suction  
    For selectively vacuuming stuff up - the others aren't affected
    Modes:
-       * Full = Normal mode
-       * High = No big stuff is vacuumed up (crates, toys, largos)
-       * Medium = Additionally normal slimes won't be vacuumed up
-       * Low = Only plorts are affected
+       * Normal = Normal mode
+       * Medium = No big stuff is vacuumed up (crates, toys, largos)
+       * Low = Additionally normal slimes won't be vacuumed up
+       * Plorts = Only plorts are affected
    * Memorizing Feeders
-   Auto feeders keep the last food. Helpful for the new drones, because they cannot randomly fill them with other food that way.
+   Auto feeders keep the last piece of food. This way you always know what to refill. And some busy buzzers too.
+   * Ginger Predictor
+   Different version help with finding the rare veggie)
+   * Game Mode Switcher
+   Switches between Adventure and Casual
    * Screenshot without vacpack
+   For the best pics without a blocked view!
 
 #### In work / Planned
-   * Ginger Predictor
-   * Game Mode Switcher
    * Quantum Transceiver
    * Extractor Storage
 
