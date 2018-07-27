@@ -9,6 +9,7 @@ Please give me feedback to the Handy Upgrades, their prices and unlock condition
 Just drop by in the SR Wiki Discord and tag me: https://discord.gg/vv3szXr
 
 ## List of features
+Get your unlocked Handy Upgrades at the Upgrade Terminal!
 #### Currently in beta testing: 
    * Selective Suction  
    For selectively vacuuming stuff up - the others wont get into your vacpack.  
