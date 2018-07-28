@@ -1,10 +1,10 @@
 <img align="right" src="https://github.com/CabbageCrow/HandyUpgrades/blob/master/img/Logo/Handy_Upgrades_Logo.png">
 
-# Handy Upgrades - Mod
-A Mod for Slime Rancher, which adds "Handy Upgrades". They shall make ranching easier and quicker. Another term would be "Quality of Life" (QOL).  
-Only active in the game modes **Adventure** and **Casual**!
+# Handy Upgrades Mod
+A Mod for Slime Rancher, which adds "Handy Upgrades" (and a few other things). They shall make ranching easier and quicker. Another term would be "Quality of Life" (QOL).  
+The Handy Upgrades are only available in the game modes **Adventure** and **Casual**!
 
-If you already know about it - Get it here, the first link: [Download the latest Release](https://github.com/CabbageCrow/HandyUpgrades/releases/latest) 
+You already know the instructions? Then get it here, the first link: [Download the latest Release](https://github.com/CabbageCrow/HandyUpgrades/releases/latest) 
 
 ## Feedback is very welcome
 Please give me feedback to the Handy Upgrades, their prices and unlock conditions.
