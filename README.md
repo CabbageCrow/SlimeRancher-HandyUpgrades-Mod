@@ -111,7 +111,3 @@ Go to the "Monomi Park" folder and make a **Copy** of your **"Slime Rancher" fol
 * Ginger Predictor: Either after post credits reading Hobson Starmail or finding a Gilded Ginger
 * Ginger Predictor Mk II: 7 days after finding the first Gilded Ginger
 * Ginger Predictor Mk III: 7 days after buying Ginger Predictor Mk II
-
-
-## Credits
-The hand icon of the Logo is designed by Freepik from Flaticon.
