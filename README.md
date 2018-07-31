@@ -104,7 +104,7 @@ Go to the "Monomi Park" folder and make a **Copy** of your **"Slime Rancher" fol
 * Selective Suction
   * Normal: From the start
   * Medium: 3h after unlocking either Moss Blanked or Indigo Quarry
-  * Low: 3h after unlocking both Moss Blanked and Indigo Quarry
+  * Small: 3h after unlocking both Moss Blanked and Indigo Quarry
   * Plorts: 3h after unlocking Ancient Ruins
   * Regulation Kit: 7 days after unlocking the Lab expansion
 * Memorizing Feeders: 3 days after unlocking the Lab expansion
