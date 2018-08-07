@@ -24,7 +24,7 @@ If you want to know the unlock conditions and don't care to be spoiled, you can 
        * Low = Additionally normal slimes won't be vacuumed up
        * Plorts = Only plorts are affected
        * Regulation Kit = Makes all modes so there is much less bouncing off and muddle
-       * Booster = You can vacuum up happy largos inside corrals (they use up 4 times the space in your vacpack)
+       * Booster = Enables vacuuming up happy largos inside corrals (they use up 4 times the space in your vacpack)
    * Memorizing Feeders  
    Auto feeders keep the last piece of food. This way you always know what to refill. And some busy buzzers too.
    * Ginger Predictor  
