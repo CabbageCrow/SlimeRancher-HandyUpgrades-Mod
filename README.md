@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/CabbageCrow/HandyUpgrades/blob/master/img/Logo/Handy_Upgrades_Logo.png">
 
 # Handy Upgrades Mod
-A Mod for Slime Rancher, which adds "Handy Upgrades" (and a few other things). They shall make ranching easier and quicker. Another term would be "Quality of Life" (QOL).  
+A Mod for Slime Rancher, which adds "Handy Upgrades" (and a few other things). They shall make ranching easier and quicker. Another term would be "Quality of Life" (QoL).  
 The Handy Upgrades are only available in the game modes **Adventure** and **Casual**!
 
 You already know the instructions? Then get it here, the first link: [Download the latest Release](https://github.com/CabbageCrow/HandyUpgrades/releases/latest) 
@@ -24,6 +24,7 @@ If you want to know the unlock conditions and don't care to be spoiled, you can 
        * Low = Additionally normal slimes won't be vacuumed up
        * Plorts = Only plorts are affected
        * Regulation Kit = Makes all modes so there is much less bouncing off and muddle
+       * Booster = You can vacuum up happy largos inside corrals (they use up 4 times the space in your vacpack)
    * Memorizing Feeders  
    Auto feeders keep the last piece of food. This way you always know what to refill. And some busy buzzers too.
    * Ginger Predictor  
@@ -107,6 +108,7 @@ Go to the "Monomi Park" folder and make a **Copy** of your **"Slime Rancher" fol
   * Small: 3h after unlocking both Moss Blanked and Indigo Quarry
   * Plorts: 3h after unlocking Ancient Ruins
   * Regulation Kit: 7 days after unlocking the Lab expansion
+  * Booster: 7 days after purchasing the Regulation Kit
 * Memorizing Feeders: 3 days after unlocking the Lab expansion
 * Ginger Predictor: Either after post credits reading Hobson Starmail or finding a Gilded Ginger
 * Ginger Predictor Mk II: 7 days after finding the first Gilded Ginger
