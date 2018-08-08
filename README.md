@@ -11,7 +11,7 @@ Please give me feedback to the Handy Upgrades, their prices and unlock condition
 Just drop by in the SR Wiki Discord and tag me: https://discord.gg/vv3szXr
 
 ## List of features
-Get your unlocked Handy Upgrades at the Upgrade Terminal!  
+Get your unlocked Handy Upgrades at the Upgrade Terminal! (Activate "Handy Upgrades" in "Packages/Other" for each save individually)   
 If you want to know the unlock conditions and don't care to be spoiled, you can find them here: [Unlock Conditions](https://github.com/CabbageCrow/HandyUpgrades#-spoiler-warning----unlock-conditions-for-the-handy-upgrades)
 
 #### Currently in beta testing: 
