@@ -94,7 +94,7 @@ Go to the "Monomi Park" folder and make a **Copy** of your **"Slime Rancher" fol
 
 | System       | Location                                     |
 |--------------|----------------------------------------------|
-| Windows      | %USERPROFILE%\AppData\LocalLow\Monomi Park\  |
+| Windows      | %UserProfile%\AppData\LocalLow\Monomi Park\  |
 | macOS (OS X) | \~/Library/Application Support/Monomi Park   |
 | Linux        | \~/.config/unity3d/Monomi Park               |
 
