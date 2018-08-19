@@ -17,14 +17,14 @@ If you want to know the unlock conditions and don't care to be spoiled, you can 
 #### Currently in beta testing: 
    * Selective Suction  
    For selectively vacuuming stuff up - the others wont get into your vacpack.  
-   (To change between modes **configure the controls** in the Options menu.)
-   Modes:
+   (To change between modes **configure the controls** in the Options menu.)  
+   Modes:  
        * Normal = Normal mode
        * Medium = No big stuff is vacuumed up (crates, toys, largos)
        * Low = Additionally normal slimes won't be vacuumed up
        * Plorts = Only plorts are affected
        * Regulation Kit = Makes all modes so there is much less bouncing off and muddle
-       * Booster = Enables vacuuming up happy largos inside corrals (they use up 4 times the space in your vacpack)
+   * Suction Booster = If enabled you can vacuum up happy largos inside corrals (they use up 4 times the space in your vacpack)
    * Memorizing Feeders  
    Auto feeders keep the last piece of food. This way you always know what to refill. And some busy buzzers too.
    * Ginger Predictor  
