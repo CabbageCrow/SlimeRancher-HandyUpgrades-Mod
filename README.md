@@ -47,7 +47,7 @@ src='https://github.com/CabbageCrow/Miscellaneous/blob/master/img/Kofi_btn/kofi_
 <a href='https://ko-fi.com/Q5Q0BT8U' target='_blank'><img height='55' style='border:0px;height:55px;' 
 src='https://github.com/CabbageCrow/Miscellaneous/blob/master/img/Kofi_btn/kofi_btn_cabbage.png?v=0' border='0' alt='Give the Crow a Cabbage at ko-fi.com' /></a>
 
-## Install Instructions
+## Install Instructions 
 0. Maybe make a **Backup** of your save files - see [Backup save files](#backup-save-files).  
    (Although this Mod currently _doesn't_ do anything to the original save files directly - there is the small possibility that if it breaks something in the game itself, that could corrupt your save file.)
 
