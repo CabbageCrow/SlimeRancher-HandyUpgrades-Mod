@@ -17,7 +17,6 @@ If you want to know the unlock conditions and don't care to be spoiled, you can 
 
 **[Support me / Donate](https://github.com/CabbageCrow/SlimeRancher.HandyUpgrades-Mod#support-me), if you like what I'm doing.**  
 
-#### Currently in beta testing: 
    * Selective Suction  
    For selectively vacuuming stuff up - the others wont get into your vacpack.  
    (To change between modes **configure the controls** in the Options menu.)  
@@ -48,7 +47,7 @@ If you want to know the unlock conditions and don't care to be spoiled, you can 
    Silos **switch to another slot** if the item can't be put into the selected one.  
    * Backup of the save file while the mod is active  
 
-#### In work / Planned
+### In work / Planned
    * Quantum Transceiver
    * Extractor Storage
 
