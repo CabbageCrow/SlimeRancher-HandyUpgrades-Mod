@@ -15,7 +15,7 @@ Get your unlocked Handy Upgrades at the Upgrade Terminal!
 You have to activate "Handy Upgrades" in "Packages/Other" for each save individually  
 If you want to know the unlock conditions and don't care to be spoiled, you can find them here: [Unlock Conditions](https://github.com/CabbageCrow/HandyUpgrades#-spoiler-warning----unlock-conditions-for-the-handy-upgrades)
 
-Consider **[supporting me by spreading the word or even donating](https://github.com/CabbageCrow/SlimeRancher.HandyUpgrades-Mod#support-me) when you like what I'm doing.**  
+Consider **supporting me by spreading the word** or **[donating](https://github.com/CabbageCrow/SlimeRancher.HandyUpgrades-Mod#support-me--donate)** when you like what I'm doing.  
 
    * Selective Suction  
    For selectively vacuuming stuff up - the others wont get into your vacpack.  
@@ -51,9 +51,9 @@ Consider **[supporting me by spreading the word or even donating](https://github
    * Quantum Transceiver
    * Extractor Storage
 
-## Support me / Donations
+## Support me / Donate
 If you like my work, spread the word so more people can enjoy it.  
-You also can show your appreciation with a metaphorical coffee or cabbage:  
+You also can show your appreciation with a metaphorical coffee or cabbage donation:  
 <a href='https://ko-fi.com/Q5Q0BT8U' target='_blank'><img height='55' style='border:0px;height:55px;' 
 src='https://github.com/CabbageCrow/Miscellaneous/blob/master/img/Kofi_btn/kofi_btn_coffee.png?v=0' border='0' alt='Buy Me a metaphorical Coffee at ko-fi.com' /></a> 
 <a href='https://ko-fi.com/Q5Q0BT8U' target='_blank'><img height='55' style='border:0px;height:55px;' 
