@@ -15,7 +15,7 @@ Get your unlocked Handy Upgrades at the Upgrade Terminal!
 You have to activate "Handy Upgrades" in "Packages/Other" for each save individually  
 If you want to know the unlock conditions and don't care to be spoiled, you can find them here: [Unlock Conditions](https://github.com/CabbageCrow/HandyUpgrades#-spoiler-warning----unlock-conditions-for-the-handy-upgrades)
 
-**[Support me / Donate](https://github.com/CabbageCrow/SlimeRancher.HandyUpgrades-Mod#support-me), if you like what I'm doing.**  
+Consider **[supporting me by spreading the word or even donating](https://github.com/CabbageCrow/SlimeRancher.HandyUpgrades-Mod#support-me) when you like what I'm doing.**  
 
    * Selective Suction  
    For selectively vacuuming stuff up - the others wont get into your vacpack.  
