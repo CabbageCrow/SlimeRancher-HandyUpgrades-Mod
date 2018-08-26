@@ -19,21 +19,30 @@ If you want to know the unlock conditions and don't care to be spoiled, you can 
    For selectively vacuuming stuff up - the others wont get into your vacpack.  
    (To change between modes **configure the controls** in the Options menu.)  
    Modes:  
-       * Normal = Normal mode
-       * Medium = No big stuff is vacuumed up (crates, toys, largos)
-       * Low = Additionally normal slimes won't be vacuumed up
-       * Plorts = Only plorts are affected
-       * Regulation Kit = Makes all modes so there is much less bouncing off and muddle
-   * Suction Booster = If enabled you can vacuum up happy largos inside corrals (they use up 4 times the space in your vacpack)
+       * Normal = Normal mode  
+       * Medium = No big stuff is vacuumed up (crates, toys, largos)  
+       * Low = Additionally normal slimes won't be vacuumed up  
+       * Plorts = Only plorts are affected  
+       * Regulation Kit = Makes all modes so there is much less bouncing off and muddle  
+   * Suction Booster  
+   If enabled you can vacuum up elated Largos, recognizable by their big smiles.  
+   It only works on your ranch and they use up 4 times the space in your vacpack.  
    * Memorizing Feeders  
-   Auto feeders keep the last piece of food. This way you always know what to refill. And some busy buzzers too.
+   Auto feeders keep the last piece of food. This way you always know what to refill. And some busy buzzers too.  
    * Ginger Predictor  
-   Different levels help with finding the rare veggie
+   Different levels help with finding the rare veggie  
    * Game Mode Switcher  
-   Switches between Adventure and Casual
-   * Screenshot without vacpack  
-   For the best pics without a blocked view!  
-   * (Backup of the save file while the mod is active)
+   Switches between Adventure and Casual  
+   * Drone Firmware Update  
+     Allows the busy buzzers to collect plorts from gardens  
+   * Screenshot Extension  
+     * Added screenshot types "Scenery" and "With UI"  
+     (For the best pics without a blocked view! Or extra blocked! The latter is useful if you want e.g. capture your inventory too.)  
+     * Screenshots will be stored into a folder on the desktop named "Slime Rancher - Screenshots".  
+     * Naming of the files changed. From 12-hour clock to 24-hour clock, so sorting doesn't get mixed up and added a second hyphens for easier reading.  
+   * Silo Slot Self Switcher  
+   Silos switch to another slot if the item can't be put into the selected one.  
+   * (Backup of the save file while the mod is active)  
 
 #### In work / Planned
    * Quantum Transceiver
@@ -108,8 +117,10 @@ Go to the "Monomi Park" folder and make a **Copy** of your **"Slime Rancher" fol
   * Small: 3h after unlocking both Moss Blanked and Indigo Quarry
   * Plorts: 3h after unlocking Ancient Ruins
   * Regulation Kit: 7 days after unlocking the Lab expansion
-  * Booster: 7 days after purchasing the Regulation Kit
+* Suction Booster: 7 days after purchasing the Regulation Kit
 * Memorizing Feeders: 3 days after unlocking the Lab expansion
 * Ginger Predictor: Either after post credits reading Hobson Starmail or finding a Gilded Ginger
 * Ginger Predictor Mk II: 7 days after finding the first Gilded Ginger
 * Ginger Predictor Mk III: 7 days after buying Ginger Predictor Mk II
+* Silo Slot Self Switcher: From the start
+
