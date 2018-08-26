@@ -11,7 +11,8 @@ Please give me feedback to the Handy Upgrades, their prices and unlock condition
 Just drop by in the SR Wiki Discord and tag me: https://discord.gg/vv3szXr
 
 ## List of features
-Get your unlocked Handy Upgrades at the Upgrade Terminal! (Activate "Handy Upgrades" in "Packages/Other" for each save individually)   
+Get your unlocked Handy Upgrades at the Upgrade Terminal!  
+You have to activate "Handy Upgrades" in "Packages/Other" for each save individually  
 If you want to know the unlock conditions and don't care to be spoiled, you can find them here: [Unlock Conditions](https://github.com/CabbageCrow/HandyUpgrades#-spoiler-warning----unlock-conditions-for-the-handy-upgrades)
 
 #### Currently in beta testing: 
@@ -39,6 +40,7 @@ If you want to know the unlock conditions and don't care to be spoiled, you can 
      * Added screenshot types "Scenery" and "With UI"  
      (For the best pics without a blocked view! Or extra blocked! The latter is useful if you want e.g. capture your inventory too.)  
      * Screenshots will be stored into a folder on the desktop named "Slime Rancher - Screenshots".  
+     * Added buttons for the new types to the pause menu, as well as for recording GIF  
      * Naming of the files changed. From 12-hour clock to 24-hour clock, so sorting doesn't get mixed up and added a second hyphens for easier reading.  
    * Silo Slot Self Switcher  
    Silos switch to another slot if the item can't be put into the selected one.  
