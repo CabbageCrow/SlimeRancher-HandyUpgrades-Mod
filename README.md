@@ -22,10 +22,10 @@ If you want to know the unlock conditions and don't care to be spoiled, you can 
    (To change between modes **configure the controls** in the Options menu.)  
    Modes:  
        * Normal = Normal mode  
-       * Medium = No big stuff is vacuumed up (crates, toys, largos)  
-       * Low = Additionally normal slimes won't be vacuumed up  
-       * Plorts = Only plorts are affected  
-       * Regulation Kit = Makes all modes so there is much less bouncing off and muddle  
+       * Medium = **No big stuff** is vacuumed up **(crates, toys, largos)**  
+       * Low = **Additionally normal slimes** won't be vacuumed up  
+       * Plorts = *Only plorts* are affected  
+       * Regulation Kit = Changes all modes so there is **much less bouncing off and muddle**  
    * Suction Booster  
    If enabled you can **vacuum up elated Largos**, recognizable by their big smiles.  
    It works **only on your ranch** and they use up 4 times the space in your vacpack.  
