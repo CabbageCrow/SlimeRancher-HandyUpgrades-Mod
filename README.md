@@ -64,11 +64,10 @@ src='https://github.com/CabbageCrow/Miscellaneous/blob/master/img/Kofi_btn/kofi_
 
 
 ### When Multi Mod (or uModFramework) is installed 
-Get the UMF zip file **HandyUpgrades_CabbageCrow_UMF_BETA** and put it into the **Mods** folder of **uModFramework**.
+Get the UMF zip file [**HandyUpgrades_CabbageCrow_UMF_BETA**](https://github.com/CabbageCrow/SlimeRancher-HandyUpgrades-Mod/releases/download/v0.1.6/HandyUpgrades_CabbageCrow_UMF_BETA_v0.1.6.zip) and put it into the **Mods** folder of **uModFramework**.
 
 ### Using the Installer
-1. Try **using the new installer** inside the archive **HandyUpgrades_CabbageCrow_Installer_BETA**  
-Get it here, the first link: [Download the latest Release](https://github.com/CabbageCrow/HandyUpgrades/releases/latest)  
+1. Try **using the new installer**, just extract the archive [**HandyUpgrades_CabbageCrow_Installer_BETA**](https://github.com/CabbageCrow/SlimeRancher-HandyUpgrades-Mod/releases/download/v0.1.6/HandyUpgrades_CabbageCrow_Installer_BETA_v0.1.6.zip)  
 You can install it multiple times - it doesn't matter.  
 (The installer handles all the prerequisites (UPM) and places the dlls into the right folder.)
 
