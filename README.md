@@ -61,12 +61,13 @@ src='https://github.com/CabbageCrow/Miscellaneous/blob/master/img/Kofi_btn/kofi_
 
 ## Install Instructions 
 0. Maybe make a **Backup** of your save files - see [Backup save files](#backup-save-files).  
-   (Although this Mod currently _doesn't_ do anything to the original save files directly - there is the small possibility that if it breaks something in the game itself, that could corrupt your save file.)
 
 
+### When Multi Mod (or uModFramework) is installed 
+Get the UMF zip file **HandyUpgrades_CabbageCrow_UMF_BETA** and put it into the **Mods** folder of **uModFramework**.
 
 ### Using the Installer
-1. Try **using the new installer** inside the archive **HandyUpgrades_CabbageCrow_Installer_BETA.zip**  
+1. Try **using the new installer** inside the archive **HandyUpgrades_CabbageCrow_Installer_BETA**  
 Get it here, the first link: [Download the latest Release](https://github.com/CabbageCrow/HandyUpgrades/releases/latest)  
 You can install it multiple times - it doesn't matter.  
 (The installer handles all the prerequisites (UPM) and places the dlls into the right folder.)
