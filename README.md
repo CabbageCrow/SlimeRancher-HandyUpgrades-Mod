@@ -70,7 +70,7 @@ Get the file [**HandyUpgrades_v#.#.#.umfmod**](https://github.com/CabbageCrow/Sl
 
 If the installation was successful, you should see the logo in the upper left corner in the main menu.
 ![Successfull installation](https://github.com/CabbageCrow/HandyUpgrades/blob/master/img/Screenshots/Successful-install-small.jpg)  
-![Successfull installation](https://github.com/CabbageCrow/HandyUpgrades/blob/master/img/Screenshots/Screenshot_Controls_SuctionRegulator.jpg)  
+
    
 ## Uninstall / Disable the mod
 If you want to disable the mod use the disable functionality in the UMF Menu.
