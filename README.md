@@ -40,7 +40,7 @@ Consider **supporting me by spreading the word** or **[donating](https://github.
    * Screenshot Extension  
      * Added screenshot types **"Scenery"** and **"With UI"**  
      (For the best pics without a blocked view! Or extra blocked! The latter is useful if you want e.g. capture your inventory too.)  
-     * You can choose where the Screenshots will be **stored**.  
+     * You can configure **the saving location** of the Screenshots and GIFs.  
      * **Added buttons** for the new types **to the pause menu**, as well as for recording GIF  
      * **Naming of the files changed**. From 12-hour clock to 24-hour clock, so sorting doesn't get mixed up and added a second hyphens for easier reading.  
    * Silo Slot Self Switcher  
