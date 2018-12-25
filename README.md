@@ -6,7 +6,7 @@ The Handy Upgrades are only available in the game modes **Adventure** and **Casu
 
 **Go to [Install Instructions](#install-instructions)** 
 
-You already know the instructions? Then get it here, the first link: [Download the latest Release](https://github.com/CabbageCrow/HandyUpgrades/releases/latest) 
+You already know the instructions? Then get it (**HandyUpgrades_v#.#.#.umfmod**) there, the first link: [Download the latest Release](https://github.com/CabbageCrow/HandyUpgrades/releases/latest) 
 
 ## Feedback is very welcome
 Please give me feedback to the Handy Upgrades, their prices and unlock conditions.
