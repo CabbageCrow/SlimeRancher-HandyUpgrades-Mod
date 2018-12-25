@@ -68,8 +68,8 @@ src='https://github.com/CabbageCrow/Miscellaneous/blob/master/img/Kofi_btn/kofi_
 (If you are using Multi Mod or Cheat Menu, you have it already installed.)
 Get the file [**HandyUpgrades_v#.#.#.umfmod**](https://github.com/CabbageCrow/SlimeRancher-HandyUpgrades-Mod/releases/download/v0.2.0/HandyUpgrades_v0.2.0.umfmod) and put it into the **Mods** folder of **uModFramework**.
 
-If the installation was successful, you should see the logo in the upper left corner in the main menu. Hover it with the Cursor for more information.  
-If the box is green it should be working, if yellow it isn't active (update needed), if red an error occured (please report it).
+If the installation was successful, you should see the **logo** in the upper left corner in the main menu. **Hover it** with the Cursor for more information.  
+If the **box** is **green** it should be working, if **yellow** it isn't active (update needed), if **red** an error occured (please report it).
   
 ![Successfull installation](https://github.com/CabbageCrow/HandyUpgrades/blob/master/img/Screenshots/Successful-install-small.jpg)  
 
@@ -91,8 +91,9 @@ Go to the "Monomi Park" folder and make a **Copy** of your **"Slime Rancher" fol
 | Windows      | %UserProfile%\AppData\LocalLow\Monomi Park\  |
 | macOS (OS X) | \~/Library/Application Support/Monomi Park   |
 | Linux        | \~/.config/unity3d/Monomi Park               |
-
-
+  
+  
+  
 ## !!! SPOILER WARNING !!! - Unlock Conditions for the Handy Upgrades
 * Selective Suction
   * Normal: From the start
