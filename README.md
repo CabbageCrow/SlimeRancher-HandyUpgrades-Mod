@@ -65,7 +65,7 @@ src='https://github.com/CabbageCrow/Miscellaneous/blob/master/img/Kofi_btn/kofi_
 ### When UMF (uModFramework) is installed
 (If you are using Multi Mod or Cheat Menu, you have it already installed.  
 If you have to install it get it here --> https://umodframework.com/)  
-Get the file [**HandyUpgrades_v#.#.#.umfmod**](https://github.com/CabbageCrow/SlimeRancher-HandyUpgrades-Mod/releases/download/v0.2.2/HandyUpgrades_v0.2.2.umfmod) and put it into the **Mods** folder of **uModFramework**.
+Get the file [**HandyUpgrades_v#.#.#.umfmod**](https://github.com/CabbageCrow/SlimeRancher-HandyUpgrades-Mod/releases/download/v0.2.2/HandyUpgrades_v0.2.3.umfmod) and put it into the **Mods** folder of **uModFramework**.
 
 If the installation was successful, you should see the **logo** in the upper left corner in the main menu. **Hover it** with the Cursor for more information.  
 If the **box** is **green** it should be working, if **yellow** it isn't active (update needed), if **red** an error occured (please report it).
